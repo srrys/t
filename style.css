@@ -1,5 +1,5 @@
 .im1 {
-  background-color: linear-gradient(to right, #989a9c, #a9afb8);
+  background: linear-gradient(to right, #989a9c, #a9afb8);
   border: 2px solid #757678;
 }
 .im2 {
