@@ -5,3 +5,7 @@
 .im2 {
   border: 2px dotted #757678;
 }
+body {
+  display: grid;
+  place-items: center; 
+}
