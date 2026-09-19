@@ -6,6 +6,7 @@
   border: 2px dotted #757678;
 }
 body {
+  background-color: #737373;
   display: grid;
   place-items: center; 
 }
