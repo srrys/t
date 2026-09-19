@@ -1,9 +1,9 @@
 .im1 {
-  background: linear-gradient(to right, #989a9c, #a9afb8);
+  background: linear-gradient(to right, #989a9c, #a8a8a8);
   border: 2px solid #757678;
 }
 .im2 {
-  border: 2px dotted #757678;
+  border: 2px solid #757678;
 }
 .topbarAMain {
   background-color: #93a6c4;
@@ -13,9 +13,11 @@
   display: grid;
   place-items: center; 
   font-family: Tahoma, Geneva, sans-serif;
+  border: 5px solid #000000;
 }
 .top {
   background-color: #91b4ed;
   display: grid;
   place-items: center;
+  border:5px solid #000000;
 }
