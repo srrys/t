@@ -5,12 +5,12 @@
 .im2 {
   border: 2px dotted #757678;
 }
-body {
+.topbarAMain {
+  background-color: #93a6c4;
+}
+.bodatron {
   background-color: #737373;
   display: grid;
   place-items: center; 
   font-family: Tahoma, Geneva, sans-serif;
-}
-.topbarAMain {
-  background-color: #93a6c4;
 }
