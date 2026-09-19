@@ -16,4 +16,6 @@
 }
 .top {
   background-color: #91b4ed;
+  display: grid;
+  place-items: center;
 }
