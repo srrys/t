@@ -21,3 +21,7 @@
   place-items: center;
   border:5px solid #000000;
 }
+.TB {
+  border: 10px #000000;
+  background-color: #000000;
+}
