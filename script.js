@@ -6,5 +6,5 @@ function gayifiy() {
 }
 function fart() {
   localStorage.setItem("goop1", document.getElementById("nerd1").value);
-  document.getElementById("")
+  document.getElementById("r1").innerHTML = localStorage.getItem("goop");
 }
