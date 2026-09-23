@@ -4,3 +4,7 @@ function GOAWAYTYPESHI() {
 function gayifiy() {
   document.getElementById("bod").style.backgroundImage = "linear-gradient(red, yellow, green)"
 }
+function fart() {
+  localStorage.setItem("goop1", document.getElementById("nerd1").value);
+  document.getElementById("")
+}
